@@ -1,0 +1,26 @@
+1Servidor Bejerman OK
+2Servidor Terminal Server OK
+
+Terminales 
+
+Servidor Octosis Reparar.
+
+datos de octosis del servidor 3 pasarlo al server 1, 
+El server 3 tenga sus discos nuevos y memoria nueva
+
+Dominio 
+promover al server 1
+Despromover el server 3
+Instalacion y montaje conjunto con santiago + damian
+Santiago Servidor 3
+Semana 21/11/2016
+
+
+
+
+Flijograma 
+
+
+Controlling 
+
+1.
